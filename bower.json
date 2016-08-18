@@ -1,0 +1,17 @@
+{
+    "name": "allertastencil-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Matt McInerney"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/allertastencil-bower.git"
+    },
+    "description": "Allerta Stencil font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
